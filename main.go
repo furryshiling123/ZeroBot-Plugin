@@ -241,6 +241,7 @@ func init() {
 	 sus = append(sus, 2671955205)
 	 sus = append(sus, 1170972160)
 	 sus = append(sus, 3490651586)
+	 sus = append(sus, 3590973691)
 
 	if *runcfg != "" {
 		f, err := os.Open(*runcfg)
